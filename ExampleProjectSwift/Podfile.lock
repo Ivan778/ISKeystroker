@@ -1,0 +1,16 @@
+PODS:
+  - ISKeystrokeDynamics (1.0.0)
+
+DEPENDENCIES:
+  - ISKeystrokeDynamics
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ISKeystrokeDynamics
+
+SPEC CHECKSUMS:
+  ISKeystrokeDynamics: 9dcba5757337fe46d0ce8c8edc76f9619192cbc1
+
+PODFILE CHECKSUM: b92b81d7d9c60d655c0a6fb54e1b28d9bac389e9
+
+COCOAPODS: 1.6.0

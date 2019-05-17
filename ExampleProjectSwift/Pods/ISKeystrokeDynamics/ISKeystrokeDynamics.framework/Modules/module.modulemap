@@ -1,0 +1,6 @@
+framework module ISKeystrokeDynamics {
+  umbrella header "ISKeystrokeDynamics.h"
+
+  export *
+  module * { export * }
+}

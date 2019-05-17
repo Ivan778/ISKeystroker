@@ -35,7 +35,7 @@
 - (void)userDidEnterPassword {
     [_textField resignFirstResponder];
     // Check password first!!!!!!!!!!
-    if ([_textField.text isEqualToString:@"UsersPassword"]) {
+    if ([_textField.text isEqualToString:@"Ivan1998"]) {
         NSNumber *result = [_kdrmh startProcessingWithDataAmount:12 andMode:ISModeManhattanFiltered];
         if (result != nil) {
             if (fabs([result doubleValue]) <= 65) {
