@@ -156,7 +156,7 @@ The example project demonstrates how it's easy to use ISKeystrokeDynamics. Have 
 ## Authors
 
 * **Ivan Suprynovich** 
-- [e-mail](i.suprynovich@gmail.com)
+- i.suprynovich@gmail.com
 - [VK-page](https://vk.com/ivanushka7798)
 
 ## License
